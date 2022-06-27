@@ -3,7 +3,7 @@ module github.com/aquasecurity/fanal
 go 1.16
 
 require (
-	github.com/BurntSushi/toml v0.4.1
+	github.com/BurntSushi/toml v1.1.0
 	github.com/GoogleCloudPlatform/docker-credential-gcr v1.5.0
 	github.com/alicebob/miniredis/v2 v2.17.0
 	github.com/aquasecurity/cfsec v0.2.2
@@ -36,7 +36,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/testcontainers/testcontainers-go v0.11.1
 	github.com/tmccombs/hcl2json v0.3.3
-	github.com/urfave/cli/v2 v2.3.0
+	github.com/urfave/cli/v2 v2.10.3
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/zap v1.19.1
 	golang.org/x/mod v0.5.1
